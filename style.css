@@ -1,6 +1,7 @@
 @keyframes animation {
     from {color:rgb(255, 38, 92);}
-to {color:rgb(221, 179, 189);}
+to {color:rgb(221, 179, 189);}}
+
 h1 {animation-name: "animation";
 animation-duration: 4s;}
 body {background-color:rgb(243, 220, 231);}
