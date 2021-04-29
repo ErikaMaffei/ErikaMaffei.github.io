@@ -1,4 +1,4 @@
-# Découvrez trois de mes intérêts personnels !
+# Ma page sur GitHub Pages
 ## Contenu
 1. Pourquoi cette page web
 2. L'objectif
